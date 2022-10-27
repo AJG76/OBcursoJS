@@ -1,0 +1,24 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "Mi primer project en OB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AJG76/OBcursoJS.git"
+  },
+  "keywords": [
+    "holamundo",
+    "first",
+    "project"
+  ],
+  "author": "ajg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AJG76/OBcursoJS/issues"
+  },
+  "homepage": "https://github.com/AJG76/OBcursoJS#readme"
+}
